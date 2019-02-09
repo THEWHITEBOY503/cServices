@@ -3,7 +3,7 @@
 ![cServices intro animation](https://death.is-for.me/i/4h70.gif)
 
 - [What is cServices?](https://thewhiteboy503.github.io/cservices/#what-is-cServices)
-- [What is cFTP services?](https://thewhiteboy503.github.io/cftpservices)
+- [What is cFTP services?](https://thewhiteboy503.github.io/cFTPservices)
 - [What is cIRC services?](about://blank)
 
 ## What is cServices?
