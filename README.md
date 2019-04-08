@@ -16,4 +16,6 @@ cFTP services: FTP file transfer. Send large files to your friends or collegues 
 
 cIRC services: Internet Relay Chat. Chat with friends and make new friends! 
 
+cXMPP services: eXtensiable Messaging and Presence Protocol. Chat with other XMPP users and share your status!
+
 More info coming soon!
